@@ -17,6 +17,6 @@ public class LambdaUnderTheHood {
         MyFunInterface fun = () -> System.out.println("Im Light Weight");
 
 
-
+        //Muejejeje
     }
 }
