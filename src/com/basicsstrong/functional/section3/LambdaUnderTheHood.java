@@ -1,4 +1,4 @@
-package com.basicsstrong.functional.section1;
+package com.basicsstrong.functional.section3;
 
 public class LambdaUnderTheHood {
     public static void main(String[] args) {
@@ -16,6 +16,7 @@ public class LambdaUnderTheHood {
 
         MyFunInterface fun = () -> System.out.println("Im Light Weight");
 
+        fun.myMethod();
 
         //Muejejeje
     }
