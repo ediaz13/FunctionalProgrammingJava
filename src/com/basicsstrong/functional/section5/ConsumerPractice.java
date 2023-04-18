@@ -14,6 +14,7 @@ public class ConsumerPractice {
         printElements (list, consumer);
     }
 
+    //Comentario guay.
     private static <T> void printElements(List<T> list, Consumer<T> consumer) {
         for (T t: list ) {
             consumer.accept(t);
