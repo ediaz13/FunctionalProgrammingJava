@@ -14,6 +14,7 @@ public class FunctionPractice {
         System.out.println(newList);
     }
 
+    //Some comment
     private static <T, R> List<R> map(List<T> list, Function<T, R> function) {
         List<R> newList = new ArrayList<>();
 
