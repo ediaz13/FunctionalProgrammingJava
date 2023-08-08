@@ -7,7 +7,9 @@ public class ConsumerPractice {
     public static void main(String[] args) {
         List<Integer> list = List.of(1, 2, 3, 45);
 
-        Consumer<Integer> consumer = e -> System.out.println(e);
+        //Consumer<Integer> consumer = e -> System.out.println(e);
+
+        Consumer<Integer> consumer = System.out :: println;
 
         consumer.accept(56);
 
