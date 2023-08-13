@@ -46,7 +46,8 @@ Dive deeper into predefined functional interfaces available in Java's standard l
 ## Method and Constructor Reference
 Learn how to reference methods and constructors using the `::` syntax. Understand how method references enhance code readability and reusability.
 
-## Optional for Null Pointer -  [Section 7](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
+## Optional for Null Pointer
+[Section 7](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
 Explore the `Optional` class as a tool for handling null values effectively, reducing the risk of null pointer exceptions.
 
 ## Design Programming in Depth - [Section 8](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section8)
