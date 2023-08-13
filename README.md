@@ -49,10 +49,10 @@ Learn how to reference methods and constructors using the `::` syntax. Understan
 ## Optional for Null Pointer -  [Section 7](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
 Explore the `Optional` class as a tool for handling null values effectively, reducing the risk of null pointer exceptions.
 
-## Design Programming in Depth [Section 8](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section8)
+## Design Programming in Depth - [Section 8](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
 Delve into design principles and practices in the context of functional programming. Learn about immutability, pure functions, and designing for composability.
 
-## Design Patterns in a Functional Way [Section 9](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section9)
+## Design Patterns in a Functional Way - [Section 9](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
 Adapt traditional design patterns to a functional programming paradigm. Understand how patterns like Singleton, Strategy, and Decorator can be implemented functionally.
 
 ## Streams and Parallel Streams in Depth
