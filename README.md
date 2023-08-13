@@ -46,11 +46,14 @@ Dive deeper into predefined functional interfaces available in Java's standard l
 ## Method and Constructor Reference
 Learn how to reference methods and constructors using the `::` syntax. Understand how method references enhance code readability and reusability.
 
-## Optional for Null Pointer -  [Section 7](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
-Explore the `Optional` class as a tool for handling null values effectively, reducing the risk of null pointer exceptions.
+## Optional for Null Pointer
+[Section 7](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7) 
+- Explore the `Optional` class as a tool for handling null values effectively, reducing the risk of null pointer exceptions.
 
-## Design Programming in Depth - [Section 8](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
-Explore essential design principles within the realm of functional programming. Grasp the significance of immutability, ensuring data consistency and minimizing errors. Gain insights into pure functions, which offer predictability by generating outputs solely from inputs and avoiding side effects. Discover the concept of functions as first-class citizens, treating them like variables for more dynamic code. Additionally, uncover higher-order functions, enabling the manipulation of functions as data for enhanced code structure. Learn how to design for composability, crafting flexible and reusable code components.
+
+## Design Programming in Depth
+[Section 8](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section8)
+- Explore essential design principles within the realm of functional programming. Grasp the significance of immutability, ensuring data consistency and minimizing errors. Gain insights into pure functions, which offer predictability by generating outputs solely from inputs and avoiding side effects. Discover the concept of functions as first-class citizens, treating them like variables for more dynamic code. Additionally, uncover higher-order functions, enabling the manipulation of functions as data for enhanced code structure. Learn how to design for composability, crafting flexible and reusable code components.
 
 ## Design Patterns in a Functional Way - [Section 9](https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7)
 Adapt traditional design patterns to a functional programming paradigm. Understand how patterns like Singleton, Strategy, and Decorator can be implemented functionally.
