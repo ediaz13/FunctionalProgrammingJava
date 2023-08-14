@@ -9,6 +9,6 @@ public class HigherOrderFunctions {
         return () -> {
             T product = producer.produce();
             return configurator.configure(product);
-        }
+        };
     }
 }
