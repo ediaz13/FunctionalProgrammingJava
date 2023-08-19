@@ -1,7 +1,7 @@
 package com.basicsstrong.functional.section8;
 
-public interface IConfigurator<T> {
+public interface IConfigurator<T, R> {
 
-    T configure(T t);
+    R configure(T t);
 
 }
