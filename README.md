@@ -1,6 +1,6 @@
 # Functional and Reactive Programming in Java Course
 
-Welcome to the repository for the "Functional & Reactive programming in Java : Modern Style" course. In this comprehensive course, you will learn the fundamental principles and advanced techniques of functional programming and reactive programming using the Java programming language. This README file serves as a guide to the various sections covered in the course.
+Welcome to the repository for the "Functional & Reactive programming in Java : Modern Style"  [Udemy course]([https://github.com/ediaz13/FunctionalProgrammingJava/tree/main/src/com/basicsstrong/functional/section7](https://www.udemy.com/course/functional-programming-and-reactive-programming-in-java/)). In this comprehensive course, you will learn the fundamental principles and advanced techniques of functional programming and reactive programming using the Java programming language. This README file serves as a guide to the various sections covered in the course.
 
 ## Table of Contents
 
