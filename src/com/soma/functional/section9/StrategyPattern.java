@@ -22,7 +22,6 @@ public class StrategyPattern {
 
         //StockFilters.byPriceAbove(stockList, 300).forEach(System.out::println);
 
-
         StockFilters.filter(stockList, stock -> stock.getSymbol().equals("AMZ")).forEach(System.out::println);
     }
 
