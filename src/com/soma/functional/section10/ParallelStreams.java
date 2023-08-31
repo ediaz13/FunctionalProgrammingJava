@@ -39,8 +39,6 @@ public class ParallelStreams {
 
         System.out.println("Time taken with parallel : "+(endTime - startTime));
 
-
-
     }
 }
 
