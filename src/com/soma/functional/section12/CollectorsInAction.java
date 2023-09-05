@@ -81,6 +81,12 @@ public class CollectorsInAction {
 
             System.out.println(getByDesignation);
 
+            String employeesNameString = employeeList.stream()
+                    .map(e -> e.getName())
+                    .collect(Collectors.joining(", "));
+
+            System.out.println(employeesNameString);
+
         } catch (Exception e) {
             System.out.println(e);
         }
