@@ -2,7 +2,7 @@ package com.soma.functional.section12;
 
 import java.util.Date;
 
-public class Employee {
+public class Employee implements Comparable<Employee> {
     private int id;
     private String name;
     private char gender;
@@ -92,5 +92,15 @@ public class Employee {
     public String toString() {
         return "Employee [id=" + id + ", name=" + name + ", gender=" + gender + ", dob=" + dob + ", city=" + city
                 + ", designation=" + designation + ", joiningDate=" + joiningDate + ", salary=" + salary + "]";
+    }
+
+    @Override
+    public int compareTo(Employee o) {
+        if (this.id < o.id)
+            return -1;
+        else if (this.id > o .id)
+            return 1;
+        else
+            return 0;
     }
 }
