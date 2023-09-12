@@ -111,4 +111,15 @@ public abstract class ListFun<T> {
             current = temp.head();
         }
     }
+
+    public ListFun<T> removeEle(T ele){
+        if(this.length() == 0)
+            return this;
+        else if(ele.equals(this.head()))
+            return tail();
+        else {
+            ListFun<T> newTail = tail().removeEle(ele);
+            return new Const<T>(head(), newTail);
+        }
+    }
 }
